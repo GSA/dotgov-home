@@ -15,7 +15,7 @@ Using a .gov domain for your online services (like your website or email) helps 
 
 Additionally, using .gov **increases security**:
 * [Multi-factor authentication]({{ site.baseurl }}/2018/10/1/doing-the-2-step/) is enforced on all accounts in the .gov registrar, different than commercial registrars.
-* We ‘[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)’ all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
+* We “[preload]({{ site.baseurl }}/2020/6/21/an-intent-to-preload/)” all new domains, which requires browsers to only use a secure HTTPS connection with your website. This protects your visitors' privacy and ensures the content you publish is exactly what's received.
 * You can [add a security contact]({{ site.baseurl }}/help/security-best-practices/) for your domain, making it easier for the public to tell you of a potential security issue with your online services.
 
 _If you're from the government, we're here to help_. Check out our [registration page]({{ site.baseurl }}/registration/) to begin.
@@ -49,7 +49,7 @@ Though CISA has [removed registration and renewal fees]({{ site.baseurl }}/2021/
 The U.S. Election Assistance Commission (EAC) has acknowledged that Help America Vote Act (HAVA) funds can be used for the process of transitioning to a .gov domain. Election officials are advised to consult with the EAC before making any purchase to ensure it is an appropriate expenditure of funds under the rules governing the grants. For more information, [contact the EAC](https://www.eac.gov/contactuseac).
 
 <h5>_Homeland Security Grant Program_</h5>
-The DOTGOV Act made “[migrating any online service](https://uscode.house.gov/view.xhtml?req=%22migrating+any+online+service%22&f=treesort&fq=true&num=0&hl=true&edition=prelim&granuleId=USC-prelim-title6-section609)” to .gov an allowable expense under the Homeland Security Grant Program. FEMA manages the grant program, and potential grantees may include transition costs in their ‘investment justification’ submission. For more information, see [FEMA's preparedness grants manual](https://www.fema.gov/sites/default/files/documents/FEMA_2021-Preparedness-Grants-Manual_02-19-2021.pdf#page=50) (PDF, page 50).
+The DOTGOV Act made “[migrating any online service](https://uscode.house.gov/view.xhtml?req=%22migrating+any+online+service%22&f=treesort&fq=true&num=0&hl=true&edition=prelim&granuleId=USC-prelim-title6-section609)” to .gov an allowable expense under the Homeland Security Grant Program. FEMA manages the grant program, and potential grantees may include transition costs in their “investment justification” submission. For more information, see [FEMA's preparedness grants manual](https://www.fema.gov/sites/default/files/documents/FEMA_2021-Preparedness-Grants-Manual_02-19-2021.pdf#page=50) (PDF, page 50).
 
 <h5>_State and local collaboration_</h5>
 Election infrastructure often relies on municipal infrastructure, so you may consider collaborating locally to secure resources to transition to .gov. (Non-election U.S.-based government organizations [qualify]({{ site.baseurl }}/about) for a .gov domain.)
